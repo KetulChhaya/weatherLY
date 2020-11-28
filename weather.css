@@ -1,0 +1,8 @@
+.custom {
+    padding: 10%;
+    background-image: url('weather_background.jpg');
+    background-size: 1600px 1080px;
+    color: whitesmoke;
+    width: 100%;
+    background-blend-mode: darken;
+}
